@@ -66,17 +66,23 @@ A "alma" deste laboratório é a capacidade de provar o que funciona. Integramos
 linguistic-lab-framework/
 │
 ├── README.md                → Este arquivo (O Mapa)
-├── docs/                    → A Teoria (Metodologia e Princípios)
 │
-├── tools/                   → As Ferramentas Federadas
-│   ├── llm_orchestration.md
-│   └── validation_bridge.md → Como conectar com o Hub de Validação
+├── docs/                    → O Núcleo de Conhecimento
+│   ├── theory/              → A Física (Fundamentos, Engenharia SLE, Gramática)
+│   ├── manuals/             → A Prática (Prompts, Agentes, Protocolos)
+│   └── glossary.md          → Glossário Técnico & FAQ
 │
-├── notebooks/               → Experimentos Linguísticos (Jupyter/Colab)
+├── tools/                   → Manuais de Operação das Ferramentas
+│   ├── llm_orchestration.md → Guia de Orquestração Federada
+│   ├── analysis_tools.md    → Guia de Análise & Síntese
+│   ├── validation_tools.md  → Regras Epistemológicas
+│   └── references.md        → Bibliografia Canônica (Papers)
+│
+├── notebooks/               → Workspace do Usuário (Seus experimentos locais)
 │
 ├── datasets/                → Dados curados para testes semânticos
 │
-└── validation/              → Logs de validação (Outputs do SD/CCC)
+└── validation/              → Logs de evidência (Outputs do SD/CCC para auditoria)
 ```
 
 
