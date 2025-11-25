@@ -41,18 +41,18 @@ Este diagrama atualiza a visão clássica para incluir o **Scientific Validation
 
 ```mermaid
 graph TD
-    OBS[📌 1. Observação & Intenção I_Lambda] --> PESQ[📚 2. Grounding com NotebookLM]
-    PESQ --> CUR[✍️ 3. Engenharia de Prompt SLE]
-    CUR --> VAL_IN[🛡️ 4. Validação de Input (SD Validator)]
+    OBS["📌 1. Observação & Intenção I_Lambda"] --> PESQ["📚 2. Grounding com NotebookLM"]
+    PESQ --> CUR["✍️ 3. Engenharia de Prompt SLE"]
+    CUR --> VAL_IN["🛡️ 4. Validação de Input (SD Validator)"]
     
     VAL_IN -- Fail --> CUR
-    VAL_IN -- Pass --> EXEC[🤖 5. Execução Federada Multi-IA]
+    VAL_IN -- Pass --> EXEC["🤖 5. Execução Federada Multi-IA"]
     
-    EXEC --> FUSAO[🔗 6. Fusão & Síntese]
-    FUSAO --> VAL_OUT[⚖️ 7. Auditoria de Contrato (CCC)]
+    EXEC --> FUSAO["🔗 6. Fusão & Síntese"]
+    FUSAO --> VAL_OUT["⚖️ 7. Auditoria de Contrato (CCC)"]
     
     VAL_OUT -- Fail --> FUSAO
-    VAL_OUT -- Pass --> GIT[🔏 8. Publicação (GitHub/Zenodo)]
+    VAL_OUT -- Pass --> GIT["🔏 8. Publicação (GitHub/Zenodo)"]
 ```
 
 -----
