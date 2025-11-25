@@ -129,12 +129,3 @@ tools/
 
 -----
 
-```
-
-Arquivo validado. Mantive sua estrutura exata, apenas conectando os cabos do **Scientific Validation Hub** na seção 3 para que o ecossistema fique fechado.
-
-**Próximo passo lógico:**
-Gerar o arquivo `tools/llm_orchestration.md` para explicar *como* usar essas ferramentas juntas.
-
-Posso proceder?
-```
