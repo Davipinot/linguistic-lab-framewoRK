@@ -23,11 +23,11 @@ O **Linguistic Laboratory Framework (LLF)** não é um software; é um método c
 Antes de iniciar o pipeline, o pesquisador deve entender que ele não está "conversando". Ele está projetando vetores.
 
 Toda interação no laboratório começa com a definição de um vetor de intenção imutável:
-
+```
 $$
 I_{\Lambda} = \alpha S + \beta F + \gamma C + \delta N + \epsilon \Omega
 $$
-
+```
   * **S (Semântica):** O conceito puro (Explorado pelo Gemini).
   * **F (Finalidade):** A ação vetorial (Sintetizada pelo ChatGPT).
   * **N (Narrativa):** A estrutura (Organizada pelo Claude).
