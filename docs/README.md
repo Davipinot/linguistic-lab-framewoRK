@@ -4,9 +4,9 @@
 docs/
 ├── README.md                # O Guia de Navegação (Map)
 ├── theory/                  # A Nova Física (Capítulos Teóricos)
-│   ├── 01_fundamentos.md    # A Álgebra da Intenção e o Espaço Latente
-│   ├── 02_engenharia.md     # Algoritmos de Densidade (SD) e Contratos (CCC)
-│   └── 03_interface.md      # A Gramática Operacional (Sintaxe >>, @, //)
+│   ├──fundamentos.md    # A Álgebra da Intenção e o Espaço Latente
+│   ├──engenharia.md     # Algoritmos de Densidade (SD) e Contratos (CCC)
+│   └──interface.md      # A Gramática Operacional (Sintaxe >>, @, //)
 ├── manuals/                 # Guias Práticos
 │   ├── prompt_engineering.md # Como escrever prompts que passam no validador
 │   └── agent_design.md       # Como projetar Personas/Contratos robustos
