@@ -168,10 +168,9 @@ Se você usar este framework, por favor, inclua o badge de validação em seus r
 
 ## 🔗 Links Fundamentais e Comunidade
 
-* 📄 [Documentação Completa](chapters/)
+* 📄 [Documentação Completa](docs/)
 * 🧠 [Framework ACC](https://github.com/aleeepassarelli/ACC/tree/main)
-* 🧪 [Validator Suite](https://github.com/aleeepassarelli/ACC/tree/main/tools)
-* ⚛️ [App Demo (React)](https://lovable.dev/demo/{{REPO_NAME}})
+* 🧪 [Tolls](tolls/)
 * 🌐 [Publicação Zenodo DOI]({{DOI_URL}})
 * 📘 [Fórum / Grupo / Discord]({{forum_URL}})
 
