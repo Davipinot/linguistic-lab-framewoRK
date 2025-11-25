@@ -156,17 +156,32 @@ graph TD
 Este projeto é construído para a comunidade, com a comunidade.
 Se você usar este framework, por favor, inclua o badge de validação em seus resultados.
 
-**Mantenedor:** [Seu Nome/Aledev]
-**Licença:** MIT — livre, aberto e irrestrito.
+## 📘 Créditos
 
-```
+* **Autor Principal:** Aledev
 
-### O Que Mudou (Resumo Tático):
+* [GitHub](https://github.com/aleeepassarelli)
+* [Contato](al.passarelli@gmail.com)
 
-1.  **Badge `Powered By`:** Deixa claro que o Lab usa o Hub como motor.
-2.  **Tabela "Motor de Validação":** Substituímos promessas vagas por **links diretos para os seus notebooks**. O usuário clica e valida.
-3.  **Diagrama Mermaid Atualizado:** Inseri o nó `F[🛡️ Validação Hub]` antes do resultado final. Isso ensina que "sem validação, não há resultado".
-4.  **Quick Start Focado:** O passo 4 agora é explícito: "VALIDE SEU PROMPT".
 
-Isso conecta o **Sonho** (o Lab Linguístico) com a **Realidade** (o Hub de Validação). Ficou show?
-```
+***
+
+## 🔗 Links Fundamentais e Comunidade
+
+* 📄 [Documentação Completa](chapters/)
+* 🧠 [Framework ACC](https://github.com/aleeepassarelli/ACC/tree/main)
+* 🧪 [Validator Suite](https://github.com/aleeepassarelli/ACC/tree/main/tools)
+* ⚛️ [App Demo (React)](https://lovable.dev/demo/{{REPO_NAME}})
+* 🌐 [Publicação Zenodo DOI]({{DOI_URL}})
+* 📘 [Fórum / Grupo / Discord]({{forum_URL}})
+
+---
+
+> **“Bem-vindo(a) à nosso laboratório. Aqui, sua intenção é matemática, sua criatividade é ciência, e sua experiência vira evidência.”**
+
+***
+> ⭐ Se esta linguagem o inspirou, considere dar uma estrela no GitHub!
+
+***
+
+<sub>© 2025 Aledev | — contribua, cite, expanda.</sub>
