@@ -45,6 +45,17 @@ A "alma" deste laboratório é a capacidade de provar o que funciona. Integramos
 | **🔍 Semantic Density (SD)** | Mede a densidade informacional e precisão vetorial dos seus prompts. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/sd_validator.ipynb) |
 | **🧠 Behavior Contract (CCC)** | Audita se o Agente manteve a aderência à missão (evita alucinação). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/behavior_validator.ipynb) |
 
+---
+| Experimento | Conceito | Executar |
+| :--- | :--- | :---: |
+| **🧪 01. Experiment Tracking** | **MLflow**: Rastreando métricas sem servidor. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/01_tracking.ipynb) |
+| **🧬 02. Data Versioning** | **DVC**: Versionamento de Prompts e Dados. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/02_data_version.ipynb) |
+| **📦 03. Metadata Packaging** | **RO-Crate**: Empacotamento FAIR para pesquisa. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](/notebooks/03_metadata.ipynb) |
+| **🏛️ 04. Digital Archiving** | **Zenodo**: Gerando DOIs para seu código (Sandbox). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/04_archiving.ipynb) |
+| **✅ 05. Notebook Testing** | **nbval**: Testes unitários para células de código. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/05_testing.ipynb) |
+
+---
+
 > *Estas ferramentas são puxadas diretamente do nosso [Scientific Validation Hub](https://github.com/aleeepassarelli/scientific-validation-hub).*
 
 ---
