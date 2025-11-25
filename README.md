@@ -97,6 +97,21 @@ flowchart LR
     G -- Não --> E
 ```
 
+## 📅 O Ciclo de Vida da Investigação
+
+O Laboratório segue um fluxo linear de enriquecimento de informação. Não começamos codificando; começamos curando.
+
+```mermaid
+graph TD
+    A["💡 Ideia/Fenômeno"] --> B["🔎 Busca Estratégica"]
+    B --> C["📚 Ingestão no NotebookLM"]
+    C --> D["🤝 O Grande Convite"]
+    D --> E["⚔️ Validação Cruzada (Cross-Check)"]
+    E --> F["🧮 Tradução Algébrica"]
+    F --> G["🚀 Execução no Colab (SVH)"]
+```
+
+
 1.  **Exploração:** Gemini/NotebookLM expandem o contexto.
 2.  **Síntese:** ChatGPT processa a lógica.
 3.  **Estrutura:** Claude organiza o output.
