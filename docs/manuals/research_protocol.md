@@ -10,12 +10,12 @@ O Laboratório segue um fluxo linear de enriquecimento de informação. Não com
 
 ```mermaid
 graph TD
-    A[💡 Ideia/Fenômeno] --> B[🔎 Busca Estratégica]
-    B --> C[📚 Ingestão no NotebookLM]
-    C --> D[🤝 O Grande Convite]
-    D --> E[⚔️ Validação Cruzada (Cross-Check)]
-    E --> F[🧮 Tradução Algébrica]
-    F --> G[🚀 Execução no Colab (SVH)]
+    A["💡 Ideia/Fenômeno"] --> B["🔎 Busca Estratégica"]
+    B --> C["📚 Ingestão no NotebookLM"]
+    C --> D["🤝 O Grande Convite"]
+    D --> E["⚔️ Validação Cruzada (Cross-Check)"]
+    E --> F["🧮 Tradução Algébrica"]
+    F --> G["🚀 Execução no Colab (SVH)"]
 ```
 
 -----
