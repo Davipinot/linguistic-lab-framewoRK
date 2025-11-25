@@ -77,3 +77,75 @@ linguistic-lab-framework/
 ├── datasets/                → Dados curados para testes semânticos
 │
 └── validation/              → Logs de validação (Outputs do SD/CCC)
+```
+
+
+## 🧪 Fluxo Multi-LLM Federado (O Pipeline)
+
+Nossa metodologia converte texto bruto em conhecimento validado através de uma cadeia de custódia cognitiva.
+
+```mermaid
+flowchart LR
+    A[📄 Entrada do Usuário] --> B[🔍 Gemini<br>Exploração & Expansão]
+    A --> C[📘 NotebookLM<br>Leitura e Contextualização]
+    B --> D[🧠 ChatGPT<br>Análise, Crítica & Síntese]
+    C --> D
+    D --> E[📐 Claude<br>Estrutura & Redação]
+    E --> F[🛡️ Validação Hub<br>Teste SD & Behavior]
+    F --> G{Aprovado?}
+    G -- Sim --> H[📙 Objeto Científico Final]
+    G -- Não --> E
+```
+
+1.  **Exploração:** Gemini/NotebookLM expandem o contexto.
+2.  **Síntese:** ChatGPT processa a lógica.
+3.  **Estrutura:** Claude organiza o output.
+4.  **Validação (CRUCIAL):** O Hub de Validação aplica testes matemáticos. Se falhar, volta para refinamento.
+
+-----
+
+## 🧭 Como começar (5 minutos)
+
+1.  **Entenda os Princípios:** Leia `docs/principles.md`.
+2.  **Escolha um Fluxo:** Sintaxe, Semântica ou Análise Comparativa.
+3.  **Desenhe seu Prompt:** Use os templates na pasta `/prompts`.
+4.  **VALIDE SEU PROMPT:**
+      * Clique no botão **Semantic Density (SD)** acima.
+      * Cole seu prompt e valide.
+      * Se passar (Badge Verde), prossiga para a execução nas IAs.
+
+## 🎯 Objetivos do Projeto
+
+  * Criar um padrão aberto para pesquisa linguística com IA.
+  * Permitir investigação profunda sem custo (Free Tier Science).
+  * **Garantir reprodutibilidade através de validação vetorial.**
+  * Integrar múltiplas inteligências em um fluxo coerente.
+
+## 📅 Roadmap de Integração
+
+  * [x] **Fase 1:** Estrutura do Repositório e Metodologia.
+  * [x] **Fase 2:** Integração com *Scientific Validation Hub* (SD/CCC).
+  * [ ] **Fase 3:** Criação de Datasets Canônicos para Semântica.
+  * [ ] **Fase 4:** Casos de Estudo validados com DOI (via Zenodo).
+
+-----
+
+## 🤝 Contribuição & Comunidade
+
+Este projeto é construído para a comunidade, com a comunidade.
+Se você usar este framework, por favor, inclua o badge de validação em seus resultados.
+
+**Mantenedor:** [Seu Nome/Aledev]
+**Licença:** MIT — livre, aberto e irrestrito.
+
+```
+
+### O Que Mudou (Resumo Tático):
+
+1.  **Badge `Powered By`:** Deixa claro que o Lab usa o Hub como motor.
+2.  **Tabela "Motor de Validação":** Substituímos promessas vagas por **links diretos para os seus notebooks**. O usuário clica e valida.
+3.  **Diagrama Mermaid Atualizado:** Inseri o nó `F[🛡️ Validação Hub]` antes do resultado final. Isso ensina que "sem validação, não há resultado".
+4.  **Quick Start Focado:** O passo 4 agora é explícito: "VALIDE SEU PROMPT".
+
+Isso conecta o **Sonho** (o Lab Linguístico) com a **Realidade** (o Hub de Validação). Ficou show?
+```
