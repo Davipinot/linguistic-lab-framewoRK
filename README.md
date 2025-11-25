@@ -176,7 +176,7 @@ Se você usar este framework, por favor, inclua o badge de validação em seus r
 
 ---
 
-> **“Bem-vindo(a) à nosso laboratório. Aqui, sua intenção é matemática, sua criatividade é ciência, e sua experiência vira evidência.”**
+> **“Bem-vindo(a) ao nosso laboratório. Aqui, sua intenção é matemática, sua criatividade é ciência, e sua experiência vira evidência.”**
 
 ***
 > ⭐ Se esta linguagem o inspirou, considere dar uma estrela no GitHub!
