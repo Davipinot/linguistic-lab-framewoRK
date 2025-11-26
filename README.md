@@ -6,10 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Powered By](https://img.shields.io/badge/Powered%20By-Scientific%20Validation%20Hub-blue)](https://github.com/aleeepassarelli/scientific-validation-hub)
 [![Validation Status](https://img.shields.io/badge/Scientific_Validation-PASSING-success)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/aleeepassarelli/scientific-validation-hub?style=social)](https://github.com/aleeepassarelli/scientific-validation-hub)
 [![Rigor](https://img.shields.io/badge/Validation_Rigor-1.0-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![Scientific Status](https://img.shields.io/badge/Scientific_Validation-PASS-2ea44f)](https://github.com/aleeepassarelli/scientific-validation-hub/tree/main/notebooks)
+
 
 ---
 
