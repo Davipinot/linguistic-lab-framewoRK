@@ -9,7 +9,10 @@
 
 ---
 
-### 📚 [Documentação](./docs/) • 🔧 [Ferramentas](./tools/) • 🔬 [Motor de Validação](#-motor-de-validação-científica) • 💬 [Prompts](./prompts/)
+• 📚 [Documentação](./docs/) 
+• 🔧 [Ferramentas](./tools/) 
+• 🔬 [Motor de Validação](https://github.com/aleeepassarelli/scientific-validation-hub/tree/main) 
+• 💬 [Prompts](./prompts/)
 
 ---
 
