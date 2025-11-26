@@ -48,7 +48,7 @@ A "alma" deste laboratório é a capacidade de provar o que funciona. Integramos
 
 | Ferramenta de Validação | O que ela testa? | Executar Agora |
 | :--- | :--- | :---: |
-| **🔍 Semantic Density (SD)** | Mede a densidade informacional e precisão vetorial dos seus prompts. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/sd_validator.ipynb) |
+| **🔍 Semantic Density (SD)** | Mede a densidade informacional e precisão vetorial dos seus prompts. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/sd_validator_ipynb.ipynb) |
 | **🧠 Behavior Contract (CCC)** | Audita se o Agente manteve a aderência à missão (evita alucinação). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/aleeepassarelli/scientific-validation-hub/blob/main/notebooks/behavior_validator.ipynb) |
 
 ---
